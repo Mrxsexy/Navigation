@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="TITLES">
+        <item>人工智能</item>
+        <item>大数据</item>
+        <item>区块链</item>
+        <item>物联网</item>
+        <item>云计算</item>
+        <item>AR</item>
+
+
+    </string-array>
+</resources>
